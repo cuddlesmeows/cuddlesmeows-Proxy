@@ -2,11 +2,13 @@
 
 ## Credits
 - [@egeunbeaten](https://github.com/egeunbeaten)
-- [@RCodCC](https://github.com/RCodCC)
+- [@cuddlesmeow](https://github.com/cuddlesmeows)
 
 ## Features
 - /warp
 - /fastdrop
+- /name
+- /skin
 - fast roulette
   
 ## Build For Windows
